@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DepartmentService/DepartmentService.iml" filepath="$PROJECT_DIR$/DepartmentService/DepartmentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarketEvoApplication.iml" filepath="$PROJECT_DIR$/.idea/MarketEvoApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarketEvoCloudGateway/MarketEvoCloudGateway.iml" filepath="$PROJECT_DIR$/MarketEvoCloudGateway/MarketEvoCloudGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marketevo/marketevo.iml" filepath="$PROJECT_DIR$/marketevo/marketevo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>
